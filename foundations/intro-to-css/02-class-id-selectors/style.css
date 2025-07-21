@@ -1,0 +1,18 @@
+.redish {
+    background-color: #de8591;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one {
+    color: #4555e8;
+    font-size: 36px;
+}
+
+.cooler, #another {
+    font-size: 24px;
+}
+
+#another {
+    background-color: #47e369;
+    font-weight: bold;
+}
